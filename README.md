@@ -30,7 +30,7 @@ So for example:
 Installing cloog - Can be installed again
 ----------------------
 
-Note that this is required to build the toolchains, NO EXCEPTIONS.  It is also usefull to have these installed for ROM building with BobSaget-Mod.  These help a lot for graphite flags, which you should be using (if not no point in using bsm).  DO NOT install the package libcloog-isl-dev
+Note that this is required to build the toolchains, NO EXCEPTIONS.  It is also useful to have these installed for ROM building with BobSaget-Mod.  These help a lot for graphite flags, which you should be using (if not no point in using bsm).  DO NOT install the package libcloog-isl-dev
 There is newer versions available that I have compiled as prebuilts to be used in /usr/lib/x86_64-linux-gnu
 download it as a zip file from here:
 https://github.com/BobSaget-Mod/prebuilts_cloog_isl/archive/master.zip
